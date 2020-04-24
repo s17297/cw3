@@ -21,7 +21,7 @@ namespace cw3.DAL
         }
         public IEnumerable<Student> GetStudents()
         {
-            return _students;
+            return null;
         }
     }
 }
